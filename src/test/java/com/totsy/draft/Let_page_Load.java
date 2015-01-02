@@ -10,7 +10,7 @@ public class Let_page_Load {
 
 	public static void main(String[] args) {
 		WebDriver driver = new FirefoxDriver();
-		driver.get("http://flipcart.com");
+		driver.get("http://yahoo.com");
 
 		// time for the page to load
 		// submit form

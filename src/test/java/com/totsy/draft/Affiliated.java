@@ -19,8 +19,8 @@ public class Affiliated {
 		for (int i=1;i<=500;i++) {					
 	
 		driver.findElement(By.xpath("//*[@id='email_address']")).sendKeys("ssayem+6001"+i+"@totsy.com");
-		driver.findElement(By.xpath("//*[@id='password']")).sendKeys("sami3092");
-		driver.findElement(By.xpath("//*[@id='confirmation']")).sendKeys("sami3092");
+		driver.findElement(By.xpath("//*[@id='password']")).sendKeys("xxxx");
+		driver.findElement(By.xpath("//*[@id='confirmation']")).sendKeys("xxxx");
 		driver.findElement(By.xpath("//*[@id='submit-button']")).click();
 		
 		try {
